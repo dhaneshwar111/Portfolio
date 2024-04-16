@@ -196,7 +196,7 @@ section .title::after {
    
     color: #000;
     min-height: 500px;
-    background-size: cover;
+    background-size: contain;
     background-attachment: fixed;
     font-family: 'Ubuntu', sans-serif;
 }
