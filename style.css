@@ -113,7 +113,7 @@ section .title::after {
 }
 
 .navbar .logo a {
-    color: #fff;
+    color: #000;
     font-size: 35px;
     font-weight: 600;
 }
@@ -124,7 +124,7 @@ section .title::after {
 }
 
 .navbar.sticky .logo a span {
-    color: #fff;
+    color: #000;
 }
 
 .navbar .menu li {
@@ -134,7 +134,7 @@ section .title::after {
 
 .navbar .menu li a {
     display: block;
-    color: #fff;
+    color: #000;
     font-size: 18px;
     font-weight: 500;
     margin-left: 25px;
@@ -194,9 +194,9 @@ section .title::after {
     background: url("images/prem.jpeg") no-repeat center;
     height: 100vh;
    
-    color: #fff;
+    color: #000;
     min-height: 500px;
-    background-size: contain;
+    background-size: cover;
     background-attachment: fixed;
     font-family: 'Ubuntu', sans-serif;
 }
@@ -233,7 +233,7 @@ section .title::after {
 .home .home-content a {
     display: inline-block;
     background: crimson;
-    color: #fff;
+    color: #000;
     font-size: 25px;
     padding: 12px 36px;
     margin-top: 20px;
