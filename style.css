@@ -113,7 +113,7 @@ section .title::after {
 }
 
 .navbar .logo a {
-    color: #000;
+    color: #eebfbf;
     font-size: 35px;
     font-weight: 600;
 }
@@ -134,8 +134,8 @@ section .title::after {
 
 .navbar .menu li a {
     display: block;
-    color: #000;
-    font-size: 18px;
+    color: #ecedec;
+    font-size: 24px;
     font-weight: 500;
     margin-left: 25px;
     transition: color 0.3s ease;
@@ -191,10 +191,10 @@ section .title::after {
 /* home section styling */
 .home {
     display: flex;
-    background: url("images/prem.jpeg") no-repeat center;
+    background: url("images/dk.jpg" ) no-repeat center;
     height: 100vh;
    
-    color: #000;
+    color: #fff;
     min-height: 500px;
     background-size: cover;
     background-attachment: fixed;
@@ -685,7 +685,7 @@ footer span a:hover {
         width: 100%;
         left: -100%;
         top: 0;
-        background: #fff;
+        background: #c13b3b;
         text-align: center;
         padding-top: 80px;
         transition: all 0.3s ease;
@@ -805,4 +805,9 @@ footer span a:hover {
         font-size: 23px;
         line-height: 38px;
     }
+}
+
+.whatsapp  a{
+    font-style: italic;
+    color: green;
 }
